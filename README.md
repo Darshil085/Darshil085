@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Darshil 👋
 
-<!--
-**Darshil085/Darshil085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student @ PES University  
+💻 Interested in Cybersecurity & Full-Stack Development  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- C
+- JavaScript
+- React
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Shivam Marble Management System (Billing + Chalan)
+- More projects coming soon...
+
+## 📫 Contact
+Email: kachhadiyadarshil1@gmail.com
