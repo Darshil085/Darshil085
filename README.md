@@ -17,3 +17,5 @@
 
 ## 📫 Contact
 Email: kachhadiyadarshil1@gmail.com
+Linkedin: www.linkedin.com/in/darshil-kachhadiya-5447a23b9
+
